@@ -1,3 +1,3 @@
 [submodule "translate-shell.wiki"]
 	path = wiki
-	url = https://github.com/soimort/translate-shell.wiki.git
+	url = git@github.com:NorthIsMirror/translate-shell.wiki.git
